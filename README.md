@@ -3,7 +3,7 @@
 **Author:** Amol Satdive  
 M.Tech – IITD  
 
-This repository contains selected Product design, CAD and computational fluid dynamics (CFD) related work.
+This repository contains selected Product design, CAD and Prototyping related work.
 
 ---
 
